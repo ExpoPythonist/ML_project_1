@@ -1,0 +1,1 @@
+This project is aimed at implementing a Convolutional Neural Network (CNN) to recognize handwritten digits. The task involves training a model to correctly identify digits from the commonly used MNIST dataset. The project utilizes Python programming language along with popular libraries such as TensorFlow and Keras for building and training the CNN model.
